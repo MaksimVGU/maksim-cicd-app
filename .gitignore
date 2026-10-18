@@ -1,0 +1,10 @@
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+kubeconfig
+*.key
+*.pem
+.env
+.DS_Store
